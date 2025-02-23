@@ -33,7 +33,7 @@ p {
 }
 
 a {
-  @apply hover:underline;
+  @apply text-sky-500 hover:underline;
 }
 
 code {
